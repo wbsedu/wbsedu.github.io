@@ -17,5 +17,7 @@
     conda install numpy
     如果显示找不到包则
 
-## 2.
+## 2. vscode python 插件setting
+    "python Path": 
+    "/home/free/anaconda3/envs/wbs/bin/python"
 
