@@ -16,6 +16,7 @@
     进入环境后执行
     conda install numpy
     如果显示找不到包则
+    https://anaconda.org/中search
 
 ## 2. vscode python 插件setting
 
